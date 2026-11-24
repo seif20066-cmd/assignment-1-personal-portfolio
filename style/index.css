@@ -1,0 +1,87 @@
+body{
+     background-color: #eef2f6;
+
+}
+#main {
+  width: 850px;
+}
+#header {
+  background-color: #16487a;
+  color: white;
+  text-align: center;
+}
+.front {
+  color: #cbd5e1;
+}
+.ref {
+  display: inline-block;
+  color: white;
+  background-color: #24578a;
+  width: 110px;
+  text-align: center;
+}
+.aboutme{
+background-color: white;
+}
+.s1{
+    color:  #16487a; ;
+}
+.profile{
+  display: inline-block;
+  width: 110px;
+}
+.text{
+  display: inline-block;
+  width: 70%;
+}
+.get{
+  background-color: #16487a; 
+  color: white;
+}
+#myskills{
+  background-color: white;
+}
+#format{
+  background-color:#f0f6fc;
+  display: inline-block;
+  width: 205;
+  
+}
+#Experience{
+background-color: white;}
+.item{
+  background-color: #f8fafc;
+}
+.image{
+  display: inline-block;
+   width: 50px;
+}
+.info{
+   display: inline-block;
+  width: 740px;
+}
+.company{
+  color: #24578a;
+}
+.date{
+  color: grey;
+}
+#end{
+background-color: #16487a;
+}
+.contact{
+  color: white;
+}
+.line{
+  color: white;
+}
+.text1{
+  color: white;
+}
+#footer{
+  background-color:  #06182c;
+}
+.s2{
+color: white;
+text-align: center;
+}
